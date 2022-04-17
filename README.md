@@ -8,7 +8,7 @@ mpwar-maquetacion-web.
 Then, run the commands to build and run the Docker image:
 
 ```
-$ docker build -t mpwar-maquetacion-web-practica-2 .
+$ docker build -t mpwar-maquetacion-web-practica-1 .
 $ docker run -dit --name maquetacion-web-app -p 3000:80 mpwar-maquetacion-web-practica-2 
 
 ```
